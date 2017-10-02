@@ -14,5 +14,5 @@ Monitors: 60 Hertz.
 
 # WebGL Composition![](/assets/未命名文件.png)
 
-
+![](/assets/webgl_composition.png)
 
